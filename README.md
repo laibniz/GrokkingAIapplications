@@ -4,11 +4,11 @@ This repository mirrors the Python appendix material from *AI Applications Made 
 
 ### Get the code
 
-Clone the repository from GitHub (replace the URL with your fork if needed):
+Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/YOUR-ORG/manning-code.git
-cd manning-code
+git clone https://github.com/laibniz/AIApplicationsMadeEasy.git
+cd AIApplicationsMadeEasy
 ```
 
 ### Configure API keys
