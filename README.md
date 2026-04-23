@@ -6,7 +6,7 @@
       This repository mirrors the Python appendix material from <em>Grokking AI Applications</em> by Andrea De Mauro (MEAP, ISBN 9781633435872, publication ETA Spring 2026). Each script recreates the Langflow build featured in the matching chapter so you can inspect the raw LangChain wiring, extend it, or plug it into your own stack. Grab the full book at <a href="https://www.manning.com/books/grokking-ai-applications?a_aid=demauro&amp;chan=mm_github">manning.com/books/grokking-ai-applications</a>.
     </td>
     <td valign="top">
-      <img src="GrokkingAIapplications-DeMauro-cover.jpg" alt="Grokking AI Applications cover" width="180" />
+      <img src="GrokkingAIapplications-DeMauro-cover.jpg" alt="Grokking AI Applications cover" width="360" />
     </td>
   </tr>
 </table>
